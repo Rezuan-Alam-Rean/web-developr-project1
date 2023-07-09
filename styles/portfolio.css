@@ -79,18 +79,21 @@ nav a {
 }
 
 .banner-title {
-    font-size: 85px;
+    font-size: 70px;
     font-weight: 700;
-    margin-top: 5px;
+    margin-top: 10px;
     margin-bottom: 0;
+    
 }
 
 .banner-description {
-    margin-top: 5px;
+    margin-top: 8px;
+    margin-bottom: 20px;
 }
 
 .banner-contant {
     max-width: 500px;
+    margin-top: 5px;
 }
 
 .about {
